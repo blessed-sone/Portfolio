@@ -1,7 +1,6 @@
 # WHO AM I?
-My main interest in cybersecurity is to stop the bad guys by actively working to identify and analyze potential risks, 
-threats and vulnerabilities to ensure the confidentiality, integrity and availability of assets of the organization 
-I work for to always be a step ahead of these bad guys.
-The values I hold strongly and which I am committed to develop more are honesty, 
-law-abiding, punctual and fairness.
-
+I am a motivated Junior Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling. 
+Proficient in Python, SQL, and data visualization tools like Tableau and Power BI, I enjoy transforming raw data into actionable insights. 
+I have hands-on experience building predictive models, cleaning and analyzing datasets, and creating interactive dashboards.
+Eager to contribute to data-driven decision-making, I am continuously learning and expanding my skills in AI and big data technologies. 
+Let’s connect and explore
